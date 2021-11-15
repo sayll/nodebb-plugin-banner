@@ -1,11 +1,11 @@
 {
   "name": "nodebb-plugin-banner",
-  "version": "0.2.5",
+  "version": "0.0.1",
   "description": "NodeBB插件的快速生成工具",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodebb-china/nodebb-plugin-quickstart"
+    "url": "https://github.com/sayll/nodebb-plugin-banner"
   },
   "keywords": [
     "nodebb",
@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nodebb-china/nodebb-plugin-quickstart/issues"
+    "url": "https://github.com/sayll/nodebb-plugin-banner/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
